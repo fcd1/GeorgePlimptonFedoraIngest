@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000033</identifier>
+   <titleInfo>
+      <title>Risālah fī al-ʻamal bi'l-asṭurlāb</title>
+    </titleInfo>
+   <titleInfo>
+      <title>Treatise concerning the use of the astrolabe</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+      <form>book</form>
+      <extent>21 x 16 cm</extent>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1726-02-22</dateCreated>
+      <dateCreated>22 February 1726 (19 Jumādā II, 1138)</dateCreated>
+      <place>
+        <placeTerm type="text">Iraq?</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-3</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Oriental MS Plimpton 284</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>"Our Tools of Learning" : George Arthur Plimpton's Gifts to Columbia University</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Oriental Manuscripts</title>
+      </titleInfo>
+    </relatedItem>
+   <note>in this copy the treatise in 10 chapters is followed by a concise commentary
+
+a title is not included into the copy's colophon
+
+the scribe names himself in the dated colophon
+
+
+
+references:
+
+Brockelmann S II, p. 1020 s.v. #33
+
+D. A. King, Survey of the Scientific Manuscripts in the Egyptian National Library (Winona Lake, Ind., 1986), p. 162 s.v. G77</note>
+   <note type="ownership">Gift of George Arthur Plimpton</note>
+   <note>original filename: PLMPTN_080_001.tif</note>
+   <name>
+      <namePart>Jazarī, Ḥaydar ibn 'Abd al-Raḥmān</namePart>
+    </name>
+   <name>
+      <namePart>Bukhārī, 'Abd Allāh</namePart>
+    </name>
+   <name>
+      <namePart>ʻAbd Allāh al-Bukhārī (scribe)</namePart>
+    </name>
+   <subject>
+      <topic>Astrolabes</topic>
+      <geographic>Arab provinces of the Ottoman Empire</geographic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

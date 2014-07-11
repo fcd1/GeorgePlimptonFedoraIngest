@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000159</identifier>
+   <identifier>CLIO id: 3188778</identifier>
+   <titleInfo>
+      <title>Cherokee alphabet</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1835</dateCreated>
+      <dateCreated>circa 1835</dateCreated>
+      <publisher>Samuel Worcester</publisher>
+      <place>
+        <placeTerm type="text">Union Mission, Okla</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/early-modern/page-4</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Plimpton A497 1835 Se6</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>"Our Tools of Learning" : George Arthur Plimpton's Gifts to Columbia University</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Plimpton</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of George Arthur Plimpton</note>
+   <note>original filename: PLMPTN_060_001.tif</note>
+   <name>
+      <namePart>Sequoyah, 1770?-1843</namePart>
+    </name>
+   <subject>
+      <topic>Cherokee language--Alphabet</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

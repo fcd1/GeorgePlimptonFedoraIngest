@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000095</identifier>
+   <titleInfo>
+      <title>Photo of Pauline Ames and Francis T.P. Plimpton and children, 1937</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+      <form>portraits</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1937</dateCreated>
+      <dateCreated>1937</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-5</url>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>"Our Tools of Learning" : George Arthur Plimpton's Gifts to Columbia University</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Plimpton Family Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Mrs. Francis T.P. Plimpton</note>
+   <note>original filename: PLMPTN_095_001.tif</note>
+   <name>
+      <namePart>Plimpton, Francis T. P. (Francis Taylor Pearsons), 1900-1983</namePart>
+    </name>
+   <name>
+      <namePart>Plimpton, Pauline Ames, 1901-</namePart>
+    </name>
+   <subject>
+      <topic>Plimpton family</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

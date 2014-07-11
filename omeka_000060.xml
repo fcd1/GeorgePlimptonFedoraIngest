@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000060</identifier>
+   <titleInfo>
+      <title>Letter to George Arthur Plimpton, April 24, 1926</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1926-04-24</dateCreated>
+      <dateCreated>April 24, 1926</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/handwriting/page-5</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Plimpton Papers 1987 Gift</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>"Our Tools of Learning" : George Arthur Plimpton's Gifts to Columbia University</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>George A. Plimpton Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: PLMPTN_106_001.tif</note>
+   <note>original filename: PLMPTN_106_002.tif</note>
+   <name>
+      <namePart>Morison, Stanley, 1889-1967</namePart>
+    </name>
+   <name>
+      <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>
+    </name>
+   <subject>
+      <topic>Photography</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

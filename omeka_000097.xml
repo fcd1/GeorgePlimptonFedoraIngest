@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000097</identifier>
+   <titleInfo>
+      <title>Very fruteful and pleasant boke called the Instruction of a christen woman</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>books</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1557</dateCreated>
+      <dateCreated>1557</dateCreated>
+      <publisher>Henry Wykes</publisher>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/women/page-2</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Plimpton 376 1557 V83 (STC 24861)</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>"Our Tools of Learning" : George Arthur Plimpton's Gifts to Columbia University</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Plimpton</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of George Arthur Plimpton</note>
+   <note>original filename: PLMPTN_124_001.tif</note>
+   <name>
+      <namePart>Vives, Juan Luis, 1492-1540</namePart>
+    </name>
+   <name>
+      <namePart>Hyrde, Richard</namePart>
+    </name>
+   <subject>
+      <topic>Women--Education</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

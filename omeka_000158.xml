@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000158</identifier>
+   <titleInfo>
+      <title>Cuneiform tablet</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>objects</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="iso8601"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="approximate">-1819</dateCreated>
+      <dateCreated encoding="iso8601" point="end">-1761</dateCreated>
+      <dateCreated>circa 1820-1762 BCE</dateCreated>
+      <place>
+        <placeTerm type="text">Larsa (Tell Senkereh), Iraq</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/mathematics/page-2</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>CULC 460 (Plimpton 322)</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>"Our Tools of Learning" : George Arthur Plimpton's Gifts to Columbia University</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Cuneiform</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of George Arthur Plimpton</note>
+   <note>original filename: PLMPTN_093_001.tif</note>
+   <subject>
+      <topic>Mathematics</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

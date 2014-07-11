@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000160</identifier>
+   <identifier>CLIO id: 1623898</identifier>
+   <titleInfo>
+      <title>De Disciplina Scholarium</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1491-02-01</dateCreated>
+      <dateCreated>Feb. 1, 1491</dateCreated>
+      <publisher>Printer of the 1483 Jordanus de Quedlinburg (Georg Husner)</publisher>
+      <place>
+        <placeTerm type="text">Strasbourg</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-3</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Goff B822</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>"Our Tools of Learning" : George Arthur Plimpton's Gifts to Columbia University</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Incunabula</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of George Arthur Plimpton</note>
+   <note>original filename: PLMPTN_019_001.tif</note>
+   <name>
+      <namePart>Pseudo-Boethius</namePart>
+    </name>
+   <name>
+      <namePart>Thomas, de Cantimpré, ca. 1200-ca. 1270</namePart>
+    </name>
+   <subject>
+      <topic>Education</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

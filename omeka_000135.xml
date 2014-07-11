@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000135</identifier>
+   <identifier>CLIO id: 1079741</identifier>
+   <titleInfo>
+      <title>Myrrour of the Worlde</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>books</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1481</dateCreated>
+      <dateCreated>1481</dateCreated>
+      <publisher>William Caxton</publisher>
+      <place>
+        <placeTerm type="text">Westminster</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/medieval-trivium/page-3</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Goff M883</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>"Our Tools of Learning" : George Arthur Plimpton's Gifts to Columbia University</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Incunabula</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Mrs. Francis T. P. Plimpton in Honor of The Opening of the Rare Book &amp; Manuscript Library</note>
+   <note>original filename: PLMPTN_027_001.tif</note>
+   <note>original filename: PLMPTN_027_002.tif</note>
+   <name>
+      <namePart>Caxton, William,  ca. 1422-1491 or 2</namePart>
+    </name>
+   <subject>
+      <topic>Earth</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>
