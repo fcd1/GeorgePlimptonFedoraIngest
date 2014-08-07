@@ -3,16 +3,18 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000117</identifier>
-   <identifier>CLIO id: 1848589</identifier>
+   <identifier type="omeka">omeka_000117</identifier>
+   <identifier type="CLIO">CLIO_1848589</identifier>
    <titleInfo>
-      <title>Spencerian key to practical penmanship</title>
+      <title>Spencerian key to practical penmanship. Front cover</title>
     </titleInfo>
-   <titleInfo>
-      <title>Spencerian key</title>
+   <titleInfo type="alternative">
+      <title>Spencerian key. Front cover</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover, title page</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>

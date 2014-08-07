@@ -3,14 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000085</identifier>
+   <identifier type="omeka">omeka_000085</identifier>
    <titleInfo>
       <title>Ruth and Calvin Plimpton 50th wedding anniversary</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
-      <form>portraits</form>
     </physicalDescription>
    <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1991-09-06</dateCreated>
@@ -33,7 +34,7 @@
         <title>Plimpton Family Papers</title>
       </titleInfo>
     </relatedItem>
-   <note>Plimpton Photos Extended Family</note>
+   <note>Plimpton Family, photos, extended family</note>
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_159_001.tif</note>
    <name>

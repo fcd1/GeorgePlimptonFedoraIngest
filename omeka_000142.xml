@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000142</identifier>
+   <identifier type="omeka">omeka_000142</identifier>
    <titleInfo>
       <title>Announcement of Education of Chaucer</title>
     </titleInfo>
-   <titleInfo>
+   <titleInfo type="alternative">
       <title>Education of Chaucer, the opinion of an outstanding authority</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>3 pages</extent>
+      <extent>3 images</extent>
       <form>printed ephemera</form>
     </physicalDescription>
    <originInfo>

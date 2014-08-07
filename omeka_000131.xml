@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000131</identifier>
+   <identifier type="omeka">omeka_000131</identifier>
    <titleInfo>
       <title>Lewis Farm Letterhead</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated encoding="w3cdtf" point="end">1949</dateCreated>
       <dateCreated>First half of 20th century?</dateCreated>
       <place>
-        <placeTerm type="text">Walpole, Massachusetts</placeTerm>
+        <placeTerm type="text">Walpole (Mass.)</placeTerm>
       </place>
     </originInfo>
    <location>

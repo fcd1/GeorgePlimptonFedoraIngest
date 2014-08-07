@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000126</identifier>
-   <identifier>CLIO id: 6196599</identifier>
+   <identifier type="omeka">omeka_000126</identifier>
+   <identifier type="CLIO">CLIO_6196599</identifier>
    <titleInfo>
-      <title>Boke Named the Governour</title>
+      <title>Boke Named the Governour. Title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1557</dateCreated>
       <publisher>Thomas Marsh</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

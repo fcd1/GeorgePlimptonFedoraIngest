@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000155</identifier>
+   <identifier type="omeka">omeka_000155</identifier>
    <titleInfo>
-      <title>Young Lady's Accidence, or, A short and easy introduction to English grammar</title>
+      <title>Young Lady's Accidence, or, A short and easy introduction to English grammar. Title page</title>
     </titleInfo>
-   <titleInfo>
-      <title>Short and easy introduction to English grammar</title>
+   <titleInfo type="alternative">
+      <title>Short and easy introduction to English grammar. Title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated>1792</dateCreated>
       <publisher>I. Thomas and E. T. Andrews</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -42,11 +44,6 @@
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
-      </titleInfo>
-    </relatedItem>
-   <relatedItem type="original">
-      <titleInfo>
-        <title>Plimpton A424 1792 B52</title>
       </titleInfo>
     </relatedItem>
    <note type="ownership">Gift of George Arthur Plimpton</note>

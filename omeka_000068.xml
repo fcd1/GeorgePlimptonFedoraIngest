@@ -3,19 +3,21 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000068</identifier>
+   <identifier type="omeka">omeka_000068</identifier>
    <titleInfo>
       <title>Letter to George Arthur Plimpton regarding  Friends of the Library</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
    <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1928-06-28</dateCreated>
       <dateCreated>June 28, 1928</dateCreated>
       <place>
-        <placeTerm type="text">Southampton, L.I.</placeTerm>
+        <placeTerm type="text">Southampton (N.Y.)</placeTerm>
       </place>
     </originInfo>
    <location>

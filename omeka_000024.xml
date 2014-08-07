@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000024</identifier>
-   <identifier>CLIO id: 1623592</identifier>
+   <identifier type="omeka">omeka_000024</identifier>
+   <identifier type="CLIO">CLIO_1623592</identifier>
    <titleInfo>
-      <title>Algorithmus Integrorum cum Probis Annexis</title>
+      <title>Algorithmus Integrorum cum Probis Annexis. Page 5 verso - page 6 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -21,7 +23,7 @@
       <dateCreated>circa 1490-1495</dateCreated>
       <publisher>Martin Landsberg</publisher>
       <place>
-        <placeTerm type="text">Leipzig</placeTerm>
+        <placeTerm type="text">Leipzig (Germany)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -49,7 +51,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_033_001.tif</note>
    <name>
-      <namePart>Widmann, Johannes, ca. 1460-ca. 1500?</namePart>
+      <namePart>Widmann, Johannes, approximately 1460-approximately 1500</namePart>
     </name>
    <subject>
       <topic>Mathematics</topic>

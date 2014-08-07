@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000124</identifier>
+   <identifier type="omeka">omeka_000124</identifier>
    <titleInfo>
-      <title>Rudiments of Conchology</title>
+      <title>Rudiments of Conchology. Preliminary page, title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>frontispiece, title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -16,7 +18,7 @@
       <dateCreated>1826</dateCreated>
       <publisher>Printed for Harvey and Darton</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000104</identifier>
+   <identifier type="omeka">omeka_000104</identifier>
    <titleInfo>
-      <title>Tunaikeion, or, Nine Bookes of Various History Concerning Women</title>
+      <title>Tunaikeion, or, Nine Bookes of Various History Concerning Women. Title page</title>
     </titleInfo>
-   <titleInfo>
-      <title>Nine Bookes of Various History Concerning Women</title>
+   <titleInfo type="alternative">
+      <title>Nine Bookes of Various History Concerning Women. Title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated>1624</dateCreated>
       <publisher>Printed by Adam Islip</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -47,7 +49,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_131_001.tif</note>
    <name>
-      <namePart>Heywood, Thomas, d. 1641</namePart>
+      <namePart>Heywood, Thomas, approximately 1574-1641</namePart>
     </name>
    <subject>
       <topic>Women</topic>

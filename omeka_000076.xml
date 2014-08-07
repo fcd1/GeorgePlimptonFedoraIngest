@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000076</identifier>
-   <identifier>CLIO id: 6766017</identifier>
+   <identifier type="omeka">omeka_000076</identifier>
+   <identifier type="CLIO">CLIO_6766017</identifier>
    <titleInfo>
-      <title>Writing Tables with a Kalender for xxiiii. yeeres, with sundry necessarye rules</title>
+      <title>Writing Tables with a Kalender for xxiiii. yeeres, with sundry necessarye rules. Cover, last page, endleaf</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages, cover</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1583</dateCreated>
       <publisher>Franke Adams</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

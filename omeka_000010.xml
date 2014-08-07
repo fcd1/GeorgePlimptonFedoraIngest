@@ -3,16 +3,18 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000010</identifier>
-   <identifier>CLIO id: 1982310</identifier>
+   <identifier type="omeka">omeka_000010</identifier>
+   <identifier type="CLIO">CLIO_1982310</identifier>
    <titleInfo>
-      <title>Arts Glory, or, The Pen-Mans Treasury</title>
+      <title>Arts Glory, or, The Pen-Mans Treasury. Preliminary page, title page</title>
     </titleInfo>
-   <titleInfo>
-      <title>Pen-Mans Treasury</title>
+   <titleInfo type="alternative">
+      <title>Pen-Mans Treasury. Preliminary page, title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -20,7 +22,7 @@
       <dateCreated>1666</dateCreated>
       <publisher>Printed for, and are to be sold by John Overton</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

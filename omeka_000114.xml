@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000114</identifier>
-   <identifier>CLIO id: 6183006</identifier>
+   <identifier type="omeka">omeka_000114</identifier>
+   <identifier type="CLIO">CLIO_6183006</identifier>
    <titleInfo>
-      <title>Directions for Writing. Set Forth for the Benefit of Poore Schollers</title>
+      <title>Directions for Writing. Set Forth for the Benefit of Poore Schollers. 1 unnumbered page recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1656</dateCreated>
       <publisher>Printed for J. Stafford</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

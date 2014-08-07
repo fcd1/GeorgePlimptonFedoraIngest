@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000074</identifier>
+   <identifier type="omeka">omeka_000074</identifier>
    <titleInfo>
-      <title>Course of Elementary Reading in Science and Literature</title>
+      <title>Course of Elementary Reading in Science and Literature. Page 6-7</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages 6-7</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -16,7 +18,7 @@
       <dateCreated>1857</dateCreated>
       <publisher>Oliver &amp; Boyd</publisher>
       <place>
-        <placeTerm type="text">Edinburgh</placeTerm>
+        <placeTerm type="text">Edinburgh (Scotland)</placeTerm>
       </place>
     </originInfo>
    <location>

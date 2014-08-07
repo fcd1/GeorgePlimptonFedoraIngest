@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000129</identifier>
+   <identifier type="omeka">omeka_000129</identifier>
    <titleInfo>
-      <title>Education of Women: Earliest Period, c. 300-1450</title>
+      <title>Education of Women: Earliest Period, circa 300-1450. Page 1</title>
     </titleInfo>
-   <titleInfo>
-      <title>Education of women--five parts</title>
+   <titleInfo type="alternative">
+      <title>Education of women--five parts. Page 1</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -42,7 +44,6 @@
         <title>Plimpton Family Papers</title>
       </titleInfo>
     </relatedItem>
-   <note>Plimpton Papers</note>
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_110_001.tif</note>
    <name>

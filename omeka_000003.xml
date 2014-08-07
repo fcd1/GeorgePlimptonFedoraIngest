@@ -3,20 +3,21 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000003</identifier>
+   <identifier type="omeka">omeka_000003</identifier>
    <titleInfo>
       <title>Telegram to George Arthur Plimpton, October 22, 1922</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
-      <form>telegraphs</form>
     </physicalDescription>
    <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1922-03-04</dateCreated>
       <dateCreated>Oct. 22, 1922</dateCreated>
       <place>
-        <placeTerm type="text">Washington, D.C.</placeTerm>
+        <placeTerm type="text">Washington (D.C.)</placeTerm>
       </place>
     </originInfo>
    <location>

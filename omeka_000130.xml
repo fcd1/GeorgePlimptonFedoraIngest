@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000130</identifier>
-   <identifier>CLIO id: 6182617</identifier>
+   <identifier type="omeka">omeka_000130</identifier>
+   <identifier type="CLIO">CLIO_6182617</identifier>
    <titleInfo>
-      <title>Principles of Musik, in Singing and Setting : vvith the Two-Fold Use Therof, Ecclesiasticall and Civil</title>
+      <title>Principles of Musik, in Singing and Setting : vvith the Two-Fold Use Therof, Ecclesiasticall and Civil. Page 92 verso - page 93 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>page [92]-93</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1636</dateCreated>
       <publisher>Printed by Iohn Haviland, for the Author</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -45,7 +47,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_050_001.tif</note>
    <name>
-      <namePart>Butler, Charles, d. 1647</namePart>
+      <namePart>Butler, Charles, -1647</namePart>
     </name>
    <subject>
       <topic>Music theory</topic>

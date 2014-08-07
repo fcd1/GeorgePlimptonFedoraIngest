@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000105</identifier>
+   <identifier type="omeka">omeka_000105</identifier>
    <titleInfo>
-      <title>English language exhibition</title>
+      <title>English language exhibition. Front</title>
     </titleInfo>
-   <titleInfo>
-      <title>Notice of exhibit English language</title>
+   <titleInfo type="alternative">
+      <title>Notice of exhibit English language. Front</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
     </physicalDescription>
    <originInfo>

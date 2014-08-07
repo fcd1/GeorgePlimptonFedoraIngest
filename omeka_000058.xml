@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000058</identifier>
+   <identifier type="omeka">omeka_000058</identifier>
    <titleInfo>
-      <title>Grammatica Latina Philippi Melanchthonis</title>
+      <title>Grammatica Latina Philippi Melanchthonis. Title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>

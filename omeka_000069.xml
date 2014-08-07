@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000069</identifier>
+   <identifier type="omeka">omeka_000069</identifier>
    <titleInfo>
-      <title>De Sphaera Mundi</title>
+      <title>De Sphaera Mundi. Page 32 verso - page 33 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated encoding="w3cdtf" point="end">1499</dateCreated>
       <dateCreated>End of the 15th century</dateCreated>
       <place>
-        <placeTerm type="text">Low Countries</placeTerm>
+        <placeTerm type="text">Benelux countries</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -47,7 +49,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_001_001.tif</note>
    <name>
-      <namePart>Sacro Bosco, Joannes de, fl. 1230</namePart>
+      <namePart>Sacro Bosco, Joannes de, active 1230</namePart>
     </name>
    <subject>
       <topic>Astronomy</topic>

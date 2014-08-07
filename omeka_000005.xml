@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000005</identifier>
+   <identifier type="omeka">omeka_000005</identifier>
    <titleInfo>
-      <title>Rhetorica ad Herennium</title>
+      <title>Rhetorica ad Herennium. Page 2 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated encoding="w3cdtf" point="end">1470</dateCreated>
       <dateCreated>Mid 15th century</dateCreated>
       <place>
-        <placeTerm type="text">Verona, Italy</placeTerm>
+        <placeTerm type="text">Verona (Italy)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -50,7 +52,7 @@
       <namePart>Pseudo-Cicero</namePart>
     </name>
    <name>
-      <namePart>Feliciano, Felice, 15th cent.</namePart>
+      <namePart>Feliciano, Felice, active 15th century</namePart>
     </name>
    <subject>
       <topic>Rhetoric</topic>

@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000086</identifier>
-   <identifier>CLIO id: 2428598</identifier>
+   <identifier type="omeka">omeka_000086</identifier>
+   <identifier type="CLIO">CLIO_2428598</identifier>
    <titleInfo>
-      <title>Aepitoma Omnis Phylosophiae, Alias, Margarita Phylosophica</title>
+      <title>Aepitoma Omnis Phylosophiae, Alias, Margarita Phylosophica. 1 unnumbered page verso</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1504</dateCreated>
       <publisher>Per Ioanne[m] GruninGerman Ciue[m] Arge[n]tinu[m]</publisher>
       <place>
-        <placeTerm type="text">Strasbourg</placeTerm>
+        <placeTerm type="text">Strasbourg (France)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -45,7 +47,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_015_001.tif</note>
    <name>
-      <namePart>Reisch, Gregor, d. 1525</namePart>
+      <namePart>Reisch, Gregor, -1525</namePart>
     </name>
    <subject>
       <topic>Encyclopedias and dictionaries</topic>

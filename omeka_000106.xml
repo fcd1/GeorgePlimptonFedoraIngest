@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000106</identifier>
-   <identifier>CLIO id: 1834578</identifier>
+   <identifier type="omeka">omeka_000106</identifier>
+   <identifier type="CLIO">CLIO_1834578</identifier>
    <titleInfo>
-      <title>Dean’s Recently Improved Analytical Guide, to the Art of Penmanship</title>
+      <title>Dean’s Recently Improved Analytical Guide, to the Art of Penmanship. 1 unnumbered page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1808</dateCreated>
       <publisher>Published for the Author, and sold by Hopkins &amp; Bayard</publisher>
       <place>
-        <placeTerm type="text">New-York</placeTerm>
+        <placeTerm type="text">New York</placeTerm>
       </place>
     </originInfo>
    <location>

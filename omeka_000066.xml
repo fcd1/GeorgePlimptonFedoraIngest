@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000066</identifier>
-   <identifier>CLIO id: 6204041</identifier>
+   <identifier type="omeka">omeka_000066</identifier>
+   <identifier type="CLIO">CLIO_6204041</identifier>
    <titleInfo>
-      <title>Familiarium Colloquiorum Formulae, in Graciam Juventutis Recognite ab Erasmo Roterdamo</title>
+      <title>Familiarium Colloquiorum Formulae, in Graciam Juventutis Recognite ab Erasmo Roterdamo. Title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1520</dateCreated>
       <publisher>V. Schumann</publisher>
       <place>
-        <placeTerm type="text">Leipzig</placeTerm>
+        <placeTerm type="text">Leipzig (Germany)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -45,7 +47,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_045_001.tif</note>
    <name>
-      <namePart>Erasmus, Desiderius, d. 1536</namePart>
+      <namePart>Erasmus, Desiderius, -1536</namePart>
     </name>
    <subject>
       <topic>Dialogues, Latin</topic>

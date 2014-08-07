@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000036</identifier>
-   <identifier>CLIO id: 3402156</identifier>
+   <identifier type="omeka">omeka_000036</identifier>
+   <identifier type="CLIO">CLIO_3402156</identifier>
    <titleInfo>
-      <title>Bibliotheca Columbiana, Number 4, August 1937</title>
+      <title>Bibliotheca Columbiana: Number 4, August 1937. Cover page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>page 1</extent>
+      <extent>1 image</extent>
       <form>periodicals</form>
     </physicalDescription>
    <originInfo>
@@ -23,6 +25,11 @@
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/friends/page-2</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Plimpton Coll File Folder</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -32,7 +39,6 @@
         <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0116</url>
       </location>
     </relatedItem>
-   <note>Plimpton Coll File Folder</note>
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_119_001.tif</note>
    <name>

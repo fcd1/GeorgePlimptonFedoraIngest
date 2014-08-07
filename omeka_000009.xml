@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000009</identifier>
-   <identifier>CLIO id: 1623605</identifier>
+   <identifier type="omeka">omeka_000009</identifier>
+   <identifier type="CLIO">CLIO_1623605</identifier>
    <titleInfo>
-      <title>Computus cum Commento</title>
+      <title>Computus cum Commento. 2 unnumbered pages</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -21,7 +23,7 @@
       <dateCreated>circa 1490</dateCreated>
       <publisher>Lienhart Ysenhut</publisher>
       <place>
-        <placeTerm type="text">Basel</placeTerm>
+        <placeTerm type="text">Basel (Switzerland)</placeTerm>
       </place>
     </originInfo>
    <location>

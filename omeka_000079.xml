@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000079</identifier>
+   <identifier type="omeka">omeka_000079</identifier>
    <titleInfo>
-      <title>Summa Arismetice</title>
+      <title>Summa Arismetice. Page 137 verso - page 138 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages [137]-138</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -42,11 +44,6 @@
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>Plimpton</title>
-      </titleInfo>
-    </relatedItem>
-   <relatedItem type="original">
-      <titleInfo>
-        <title>Plimpton MS 211</title>
       </titleInfo>
     </relatedItem>
    <note type="ownership">Gift of George Arthur Plimpton</note>

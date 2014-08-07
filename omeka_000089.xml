@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000089</identifier>
+   <identifier type="omeka">omeka_000089</identifier>
    <titleInfo>
-      <title>Geometrical Practical Treatize Named Pantometria</title>
+      <title>Geometrical Practical Treatize Named Pantometria. Pages 42-43</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages 42-43</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -16,7 +18,7 @@
       <dateCreated>1591</dateCreated>
       <publisher>Printed by Abell Jeffes</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -44,7 +46,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_083_001.tif</note>
    <name>
-      <namePart>Digges, Leonard, d. ca. 1559</namePart>
+      <namePart>Digges, Leonard, -approximately 1559</namePart>
     </name>
    <subject>
       <topic>Geometry</topic>

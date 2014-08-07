@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000060</identifier>
+   <identifier type="omeka">omeka_000060</identifier>
    <titleInfo>
       <title>Letter to George Arthur Plimpton, April 24, 1926</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>2 images</extent>
       <form>correspondence</form>
     </physicalDescription>
    <originInfo>

@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000096</identifier>
+   <identifier type="omeka">omeka_000096</identifier>
    <titleInfo>
-      <title>On Collecting</title>
+      <title>On Collecting. 1 unnumbered page</title>
     </titleInfo>
-   <titleInfo>
-      <title>It has been my pleasure</title>
+   <titleInfo type="alternative">
+      <title>It has been my pleasure. 1 unnumbered page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>

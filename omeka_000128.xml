@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000128</identifier>
+   <identifier type="omeka">omeka_000128</identifier>
    <titleInfo>
-      <title>Guillelmi Lilij Angli Rudimenta</title>
+      <title>Guillelmi Lilij Angli Rudimenta. 1 unnumbered page recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -16,7 +18,7 @@
       <dateCreated>circa 1525?</dateCreated>
       <publisher>Peter Treveris</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

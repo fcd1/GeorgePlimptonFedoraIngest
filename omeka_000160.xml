@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000160</identifier>
-   <identifier>CLIO id: 1623898</identifier>
+   <identifier type="omeka">omeka_000160</identifier>
+   <identifier type="CLIO">CLIO_1623898</identifier>
    <titleInfo>
-      <title>De Disciplina Scholarium</title>
+      <title>De Disciplina Scholarium. 1 unnumbered page verso</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>Feb. 1, 1491</dateCreated>
       <publisher>Printer of the 1483 Jordanus de Quedlinburg (Georg Husner)</publisher>
       <place>
-        <placeTerm type="text">Strasbourg</placeTerm>
+        <placeTerm type="text">Strasbourg (France)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -48,7 +50,7 @@
       <namePart>Pseudo-Boethius</namePart>
     </name>
    <name>
-      <namePart>Thomas, de Cantimpré, ca. 1200-ca. 1270</namePart>
+      <namePart>Thomas, de Cantimpré, approximately 1200-approximately 1270</namePart>
     </name>
    <subject>
       <topic>Education</topic>

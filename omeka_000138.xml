@@ -3,16 +3,18 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000138</identifier>
-   <identifier>CLIO id: 6182023</identifier>
+   <identifier type="omeka">omeka_000138</identifier>
+   <identifier type="CLIO">CLIO_6182023</identifier>
    <titleInfo>
-      <title>Plan for the Conduct of Female Education in Boarding Schools</title>
+      <title>Plan for the Conduct of Female Education in Boarding Schools. Preliminary page, title page</title>
     </titleInfo>
-   <titleInfo>
-      <title>Female education</title>
+   <titleInfo type="alternative">
+      <title>Female education. Preliminary page, title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>frontispiece, title page</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>

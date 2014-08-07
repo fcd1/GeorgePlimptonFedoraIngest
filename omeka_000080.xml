@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000080</identifier>
+   <identifier type="omeka">omeka_000080</identifier>
    <titleInfo>
-      <title>Description of and Instructions for the Operation of an Astronomical Clock with an Armillary Sphere</title>
+      <title>Description of and Instructions for the Operation of an Astronomical Clock with an Armillary Sphere. 1 unnumbered fold-out page</title>
     </titleInfo>
-   <titleInfo>
-      <title>Instructions for operating an astronomical clock with an armillary sphere</title>
+   <titleInfo type="alternative">
+      <title>Instructions for operating an astronomical clock with an armillary sphere. 1 unnumbered fold-out page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>

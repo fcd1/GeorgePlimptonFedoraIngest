@@ -3,16 +3,18 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000002</identifier>
-   <identifier>CLIO id: 2451401</identifier>
+   <identifier type="omeka">omeka_000002</identifier>
+   <identifier type="CLIO">CLIO_2451401</identifier>
    <titleInfo>
-      <title>Of the Advancement and Proficience of Learning, or, the Partitions of Sciences</title>
+      <title>Of the Advancement and Proficience of Learning, or, the Partitions of Sciences. Preliminary page, title page.</title>
     </titleInfo>
-   <titleInfo>
-      <title>Partitions of Sciences</title>
+   <titleInfo type="alternative">
+      <title>Partitions of Sciences. Preliminary page, title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -20,7 +22,7 @@
       <dateCreated>1640</dateCreated>
       <publisher>Printed by Leon. Lichfield for Robert Young &amp; Edward Forrest</publisher>
       <place>
-        <placeTerm type="text">Oxford</placeTerm>
+        <placeTerm type="text">Oxford (England)</placeTerm>
       </place>
     </originInfo>
    <location>

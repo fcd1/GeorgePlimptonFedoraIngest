@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000097</identifier>
+   <identifier type="omeka">omeka_000097</identifier>
    <titleInfo>
-      <title>Very fruteful and pleasant boke called the Instruction of a christen woman</title>
+      <title>Very fruteful and pleasant boke called the Instruction of a christen woman. Preliminary page verso, first page recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -16,7 +18,7 @@
       <dateCreated>1557</dateCreated>
       <publisher>Henry Wykes</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

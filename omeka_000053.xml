@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000053</identifier>
-   <identifier>CLIO id: 1623900</identifier>
+   <identifier type="omeka">omeka_000053</identifier>
+   <identifier type="CLIO">CLIO_1623900</identifier>
    <titleInfo>
-      <title>De Institutione Arithmetica</title>
+      <title>De Institutione Arithmetica. Page c1 verso - page c2 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>May 20, 1488</dateCreated>
       <publisher>Erhard Ratdolt</publisher>
       <place>
-        <placeTerm type="text">Augsburg</placeTerm>
+        <placeTerm type="text">Augsburg (Germany)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -45,7 +47,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_036_001.tif</note>
    <name>
-      <namePart>Boethius, d. 524</namePart>
+      <namePart>Boethius, -524</namePart>
     </name>
    <subject>
       <topic>Arithmetic</topic>

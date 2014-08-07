@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000157</identifier>
-   <identifier>CLIO id: 1079995</identifier>
+   <identifier type="omeka">omeka_000157</identifier>
+   <identifier type="CLIO">CLIO_1079995</identifier>
    <titleInfo>
-      <title>Elementa Geometriae</title>
+      <title>Elementa Geometriae. First page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>May 25, 1482</dateCreated>
       <publisher>Erhard Ratdolt</publisher>
       <place>
-        <placeTerm type="text">Venice</placeTerm>
+        <placeTerm type="text">Venice (Italy)</placeTerm>
       </place>
     </originInfo>
    <location>

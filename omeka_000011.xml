@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000011</identifier>
-   <identifier>CLIO id: 1905301</identifier>
+   <identifier type="omeka">omeka_000011</identifier>
+   <identifier type="CLIO">CLIO_1905301</identifier>
    <titleInfo>
-      <title>Gaskell’s Complete Compendium of Elegant Writing</title>
+      <title>Gaskell’s Complete Compendium of Elegant Writing. 2 unnumbered pages</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1876</dateCreated>
       <publisher>Published at [Gaskell’s Bryant &amp; Stratton] College</publisher>
       <place>
-        <placeTerm type="text">Manchester, N. H.</placeTerm>
+        <placeTerm type="text">Manchester (N.H.)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -46,7 +48,7 @@
    <note>original filename: PLMPTN_077_001.tif</note>
    <note>original filename: PLMPTN_077_002.tif</note>
    <name>
-      <namePart>Gaskell, G. A. (George A.), b. 1844</namePart>
+      <namePart>Gaskell, G. A. (George A.), 1844-</namePart>
     </name>
    <subject>
       <topic>Penmanship</topic>

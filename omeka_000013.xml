@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000013</identifier>
+   <identifier type="omeka">omeka_000013</identifier>
    <titleInfo>
-      <title>Gramaticall Cards, Comprising the Generall Rules of Lilley’s Gramer</title>
+      <title>Gramaticall Cards, Comprising the Generall Rules of Lilley’s Gramer. 1 of clubs front, 2 of spades front, 5 of spades front, Queen of diamonds front, King of hearts front, Use card front</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>6 cards</extent>
+      <extent>1 image</extent>
       <form>playing cards</form>
     </physicalDescription>
    <originInfo>
@@ -20,7 +22,7 @@
       <dateCreated>Circa 1700</dateCreated>
       <publisher>Sold by John Lenthall Stationer</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

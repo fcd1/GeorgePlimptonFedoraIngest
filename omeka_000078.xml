@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000078</identifier>
-   <identifier>CLIO id: 6196507</identifier>
+   <identifier type="omeka">omeka_000078</identifier>
+   <identifier type="CLIO">CLIO_6196507</identifier>
    <titleInfo>
-      <title>New Dictionary of the Terms Ancient and Modern of the Canting Crew in its several tribes, of gypsies, beggars, thieves, cheats, &amp;c.</title>
+      <title>New Dictionary of the Terms Ancient and Modern of the Canting Crew in its several tribes, of gypsies, beggars, thieves, cheats, &amp;c. Title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -21,7 +23,7 @@
       <dateCreated>Bookseller’s notes indicate 19th century reprint, in boards, with paper label dated 1690</dateCreated>
       <publisher>Printed for W. Hawes, P. Gilbourne, and W. Davis</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

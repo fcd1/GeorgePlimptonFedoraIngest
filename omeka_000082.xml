@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000082</identifier>
+   <identifier type="omeka">omeka_000082</identifier>
    <titleInfo>
-      <title>Short Introduction of Grammar Generally to be used: Compiled and set forth for the bringing up of all those that intend to attain to the knowledge of the Latine tongue</title>
+      <title>Short Introduction of Grammar Generally to be used: Compiled and set forth for the bringing up of all those that intend to attain to the knowledge of the Latine tongue. 1 unnumbered page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -16,7 +18,7 @@
       <dateCreated>1638</dateCreated>
       <publisher>Printed by Thomas Buck and RoGerman Daniel</publisher>
       <place>
-        <placeTerm type="text">Cambridge</placeTerm>
+        <placeTerm type="text">Cambridge (England)</placeTerm>
       </place>
     </originInfo>
    <location>

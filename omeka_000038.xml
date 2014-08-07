@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000038</identifier>
-   <identifier>CLIO id: 5551593</identifier>
+   <identifier type="omeka">omeka_000038</identifier>
+   <identifier type="CLIO">CLIO_5551593</identifier>
    <titleInfo>
-      <title>Elements of Geometrie of the most auncient philosopher Euclide of Megara</title>
+      <title>Elements of Geometrie of the most auncient philosopher Euclide of Megara. Page 1</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1570</dateCreated>
       <publisher>John Daye</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -48,7 +50,7 @@
       <namePart>Euclid</namePart>
     </name>
    <name>
-      <namePart>Billingsley, Henry, Sir, d. 1606</namePart>
+      <namePart>Billingsley, Henry, Sir, -1606</namePart>
     </name>
    <subject>
       <topic>Geometry</topic>

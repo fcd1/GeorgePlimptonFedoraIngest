@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000176</identifier>
+   <identifier type="omeka">omeka_000176</identifier>
    <titleInfo>
       <title>George A. Plimpton's astrolabe</title>
     </titleInfo>
-   <titleInfo>
+   <titleInfo type="alternative">
       <title>Mr. Plimpton's astrolabe</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 astrolabe</extent>
+      <extent>1 image</extent>
       <form>objects</form>
     </physicalDescription>
    <originInfo>
@@ -20,6 +22,7 @@
                    point="start"
                    qualifier="questionable">1800</dateCreated>
       <dateCreated encoding="w3cdtf" point="end">1900</dateCreated>
+      <dateCreated>1800-1900</dateCreated>
     </originInfo>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
@@ -43,12 +46,8 @@
         <title>Smith Instruments</title>
       </titleInfo>
     </relatedItem>
-   <relatedItem type="original">
-      <titleInfo>
-        <title>Astrolabe</title>
-      </titleInfo>
-    </relatedItem>
    <note>original filename: PLMPTN_081_001.tif</note>
+   <abstract>Astrolabe</abstract>
    <typeOfResource>still image</typeOfResource>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>

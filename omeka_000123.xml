@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000123</identifier>
-   <identifier>CLIO id: 3402156</identifier>
+   <identifier type="omeka">omeka_000123</identifier>
+   <identifier type="CLIO">CLIO_3402156</identifier>
    <titleInfo>
-      <title>Bibliotheca Columbiana, Number 1, April 1933</title>
+      <title>Bibliotheca Columbiana: Number 1, April 1933</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages [1-12], 1 page</extent>
+      <extent>13 images</extent>
       <form>periodicals</form>
     </physicalDescription>
    <originInfo>

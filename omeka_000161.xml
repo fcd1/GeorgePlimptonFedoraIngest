@@ -3,22 +3,23 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000161</identifier>
-   <identifier>CLIO id: 3036072</identifier>
+   <identifier type="omeka">omeka_000161</identifier>
+   <identifier type="CLIO">CLIO_3036072</identifier>
    <titleInfo>
-      <title>Tabvlae Abcdariae Pveriles</title>
+      <title>Tabvlae Abcdariae Pveriles. Title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
-      <form>primers</form>
     </physicalDescription>
    <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1544</dateCreated>
       <dateCreated>circa 1544</dateCreated>
       <publisher>Valentin Babst</publisher>
       <place>
-        <placeTerm type="text">Leipzig</placeTerm>
+        <placeTerm type="text">Leipzig (Germany)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -46,7 +47,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_056_001.tif</note>
    <name>
-      <namePart>Platearus, Petrus, 16th cent.</namePart>
+      <namePart>Platearus, Petrus, active 16th century</namePart>
     </name>
    <typeOfResource>still image</typeOfResource>
    <language>

@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000127</identifier>
-   <identifier>CLIO id: 4587434</identifier>
+   <identifier type="omeka">omeka_000127</identifier>
+   <identifier type="CLIO">CLIO_4587434</identifier>
    <titleInfo>
-      <title>Education of Shakespeare:  Illustrated from the Schoolbooks in Use in his Time</title>
+      <title>Education of Shakespeare:  Illustrated from the Schoolbooks in Use in his Time. Front cover</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,10 @@
       <dateCreated>1933</dateCreated>
       <publisher>Oxford University Press</publisher>
       <place>
-        <placeTerm type="text">London &amp; New York</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
       </place>
     </originInfo>
    <location>

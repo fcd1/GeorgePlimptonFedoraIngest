@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000030</identifier>
+   <identifier type="omeka">omeka_000030</identifier>
    <titleInfo>
-      <title>Rudiments of Latin Prosody</title>
+      <title>Rudiments of Latin Prosody. Front cover</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -16,7 +18,7 @@
       <dateCreated>1760</dateCreated>
       <publisher>Printed and sold by Benjamin Mecom</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
    <location>

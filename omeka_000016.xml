@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000016</identifier>
+   <identifier type="omeka">omeka_000016</identifier>
    <titleInfo>
       <title>Letter to George Arthur Plimpton, August 18th, 1926</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
    <originInfo>
@@ -20,6 +22,11 @@
     </originInfo>
    <location>
       <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>A091 1926 M78 (laid in)</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -34,10 +41,9 @@
         <title>George A. Plimpton Papers</title>
       </titleInfo>
     </relatedItem>
-   <note>A091 1926 M78 (laid in)</note>
    <note>original filename: PLMPTN_079_001.tif</note>
    <name>
-      <namePart>Moore, Francis M. ǂq (Francis Marion), b. 1846</namePart>
+      <namePart>Moore, Francis M. (Francis Marion), 1846-</namePart>
     </name>
    <name>
       <namePart>Plimpton, George A. (George Arthur), 1855-1936</namePart>

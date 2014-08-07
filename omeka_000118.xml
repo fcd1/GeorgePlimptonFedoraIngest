@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000118</identifier>
+   <identifier type="omeka">omeka_000118</identifier>
    <titleInfo>
-      <title>Bust of Shakespeare</title>
+      <title>Bust of Shakespeare. Front</title>
     </titleInfo>
-   <titleInfo>
-      <title>Shakespeare bust</title>
+   <titleInfo type="alternative">
+      <title>Shakespeare bust. Front</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 sculpture</extent>
+      <extent>1 image</extent>
       <form>objects</form>
     </physicalDescription>
    <originInfo>

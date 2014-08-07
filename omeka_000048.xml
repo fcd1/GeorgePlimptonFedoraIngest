@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000048</identifier>
+   <identifier type="omeka">omeka_000048</identifier>
    <titleInfo>
-      <title>Gradual</title>
+      <title>Gradual. Unnumbered page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated encoding="w3cdtf" point="end">1375</dateCreated>
       <dateCreated>Mid 14th century</dateCreated>
       <place>
-        <placeTerm type="text">Siena, Italy</placeTerm>
+        <placeTerm type="text">Siena (Italy)</placeTerm>
       </place>
     </originInfo>
    <location>

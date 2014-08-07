@@ -3,15 +3,16 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000140</identifier>
-   <identifier>CLIO id: 3387765</identifier>
+   <identifier type="omeka">omeka_000140</identifier>
+   <identifier type="CLIO">CLIO_3387765</identifier>
    <titleInfo>
-      <title>Marks of Merit, Together with an article on Hornbooks and their use in America</title>
+      <title>Marks of Merit, Together with an article on Hornbooks and their use in America. Front cover</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover</extent>
+      <extent>1 image</extent>
       <form>books</form>
-      <form>hornbooks</form>
     </physicalDescription>
    <originInfo>
       <dateCreated encoding="w3cdtf"
@@ -22,7 +23,7 @@
       <dateCreated>circa 1916</dateCreated>
       <publisher>Ginn &amp; Company</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
    <location>

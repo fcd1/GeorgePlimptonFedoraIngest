@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000023</identifier>
+   <identifier type="omeka">omeka_000023</identifier>
    <titleInfo>
-      <title>American Geography: or, A View of the Present Situation of the United States of America. Containing Astronomical Geography. Geographical Definitions. Discovery, and General Description of America</title>
+      <title>American Geography: or, A View of the Present Situation of the United States of America. Containing Astronomical Geography. Geographical Definitions. Discovery, and General Description of America. Title Page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>

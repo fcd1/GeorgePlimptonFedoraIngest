@@ -3,14 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000006</identifier>
+   <identifier type="omeka">omeka_000006</identifier>
    <titleInfo>
       <title>Amherst Class of 1876</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 photoprint</extent>
+      <extent>1 image</extent>
       <form>photographs</form>
-      <form>portraits</form>
     </physicalDescription>
    <originInfo>
       <dateCreated encoding="w3cdtf"
@@ -20,7 +21,7 @@
       <dateCreated encoding="w3cdtf" point="end">1934</dateCreated>
       <dateCreated>circa 1933</dateCreated>
       <place>
-        <placeTerm type="text">Amherst, Mass.</placeTerm>
+        <placeTerm type="text">Amherst (Mass.)</placeTerm>
       </place>
     </originInfo>
    <location>

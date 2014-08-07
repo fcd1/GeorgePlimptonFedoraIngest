@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000045</identifier>
-   <identifier>CLIO id: 5535825</identifier>
+   <identifier type="omeka">omeka_000045</identifier>
+   <identifier type="CLIO">CLIO_5535825</identifier>
    <titleInfo>
-      <title>Journal of an African Slaver, 1789-1792</title>
+      <title>Journal of an African Slaver, 1789-1792. Title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1930</dateCreated>
       <publisher>American Antiquarian Society</publisher>
       <place>
-        <placeTerm type="text">Worcester, Mass.</placeTerm>
+        <placeTerm type="text">Worcester (Mass.)</placeTerm>
       </place>
     </originInfo>
    <location>

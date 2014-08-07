@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000061</identifier>
+   <identifier type="omeka">omeka_000061</identifier>
    <titleInfo>
-      <title>Etymologiarum Libri</title>
+      <title>Etymologiarum Libri. Page 109 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated encoding="w3cdtf" point="end">1199</dateCreated>
       <dateCreated>End of the 12th century</dateCreated>
       <place>
-        <placeTerm type="text">Possibly Italy</placeTerm>
+        <placeTerm type="text">Italy?</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -47,7 +49,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_002_001.tif</note>
    <name>
-      <namePart>Isidore, of Seville, Saint, d. 636</namePart>
+      <namePart>Isidore, of Seville, Saint, -636</namePart>
     </name>
    <subject>
       <topic>Encyclopedias and dictionaries</topic>

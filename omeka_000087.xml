@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000087</identifier>
+   <identifier type="omeka">omeka_000087</identifier>
    <titleInfo>
-      <title>Commentarius in Ciceronis pro Milone</title>
+      <title>Commentarius in Ciceronis pro Milone. Page 1</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -50,7 +52,7 @@
       <namePart>Cicero, Marcus Tullius</namePart>
     </name>
    <subject>
-      <topic>Milo, Titus Annius, d. 48 B.C</topic>
+      <topic>Milo, Titus Annius, -48 B.C.</topic>
     </subject>
    <typeOfResource>still image</typeOfResource>
    <language>

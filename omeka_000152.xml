@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000152</identifier>
+   <identifier type="omeka">omeka_000152</identifier>
    <titleInfo>
-      <title>Atlas des Enfans, ou, Nouvelle Méthode pour Apprendre la Géographie</title>
+      <title>Atlas des Enfans, ou, Nouvelle Méthode pour Apprendre la Géographie. Preliminary page, title page</title>
     </titleInfo>
-   <titleInfo>
-      <title>Nouvelle Méthode pour Apprendre la Géographie</title>
+   <titleInfo type="alternative">
+      <title>Nouvelle Méthode pour Apprendre la Géographie. Preliminary page, title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>frontispiece, title page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated>1790</dateCreated>
       <publisher>Jean-Marie Bruyset</publisher>
       <place>
-        <placeTerm type="text">Lyon</placeTerm>
+        <placeTerm type="text">Lyon (France)</placeTerm>
       </place>
     </originInfo>
    <location>

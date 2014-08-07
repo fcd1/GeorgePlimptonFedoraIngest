@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000112</identifier>
-   <identifier>CLIO id: 1828250</identifier>
+   <identifier type="omeka">omeka_000112</identifier>
+   <identifier type="CLIO">CLIO_1828250</identifier>
    <titleInfo>
-      <title>Penmanship, or, The Beauties of Writing Exemplified in a Variety of Specimens, Practical and Ornamental</title>
+      <title>Penmanship, or, The Beauties of Writing Exemplified in a Variety of Specimens, Practical and Ornamental. Title page</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1822</dateCreated>
       <publisher>Annin &amp; Smith</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
    <location>

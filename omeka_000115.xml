@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000115</identifier>
+   <identifier type="omeka">omeka_000115</identifier>
    <titleInfo>
-      <title>Trattato d’Aritmetica Mercantile</title>
+      <title>Trattato d’Aritmetica Mercantile. Page 155 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated encoding="w3cdtf" point="end">1575</dateCreated>
       <dateCreated>Mid 16th century</dateCreated>
       <place>
-        <placeTerm type="text">Florence, Italy</placeTerm>
+        <placeTerm type="text">Florence (Italy)</placeTerm>
       </place>
     </originInfo>
    <location>

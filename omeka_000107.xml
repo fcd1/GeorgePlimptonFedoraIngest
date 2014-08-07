@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000107</identifier>
+   <identifier type="omeka">omeka_000107</identifier>
    <titleInfo>
-      <title>Fonotipic instructur, or, Furst rediu buc for adults hw hav nevur ben tot tw red</title>
+      <title>Fonotipic instructur, or, Furst rediu buc for adults hw hav nevur ben tot tw red. Front cover</title>
     </titleInfo>
-   <titleInfo>
-      <title>Furst rediu buc for adults hw hav nevur ben tot tw red</title>
+   <titleInfo type="alternative">
+      <title>Furst rediu buc for adults hw hav nevur ben tot tw red. Front cover</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>cover</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>

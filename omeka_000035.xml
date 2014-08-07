@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000035</identifier>
-   <identifier>CLIO id: 1079623</identifier>
+   <identifier type="omeka">omeka_000035</identifier>
+   <identifier type="CLIO">CLIO_1079623</identifier>
    <titleInfo>
-      <title>Quadripartitum</title>
+      <title>Quadripartitum. Page 1 verso - page 2 recto.</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>January 15, 1484</dateCreated>
       <publisher>Erhard Ratdolt</publisher>
       <place>
-        <placeTerm type="text">Venice</placeTerm>
+        <placeTerm type="text">Venice (Italy)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -45,7 +47,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_037_001.tif</note>
    <name>
-      <namePart>Ptolemy, 2nd cent.</namePart>
+      <namePart>Ptolemy, active 2nd century</namePart>
     </name>
    <subject>
       <topic>Astrology, Greek</topic>

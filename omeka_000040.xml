@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000040</identifier>
+   <identifier type="omeka">omeka_000040</identifier>
    <titleInfo>
-      <title>Student Notes on Aristotle’s Logical Works</title>
+      <title>Student Notes on Aristotle’s Logical Works. Page 98</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>page 98</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated encoding="w3cdtf" point="end">1649</dateCreated>
       <dateCreated>First half of the 17th century</dateCreated>
       <place>
-        <placeTerm type="text">Douai, France</placeTerm>
+        <placeTerm type="text">Douai (France)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -44,7 +46,6 @@
         <title>Plimpton</title>
       </titleInfo>
     </relatedItem>
-   <note>MS 022</note>
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_025_001.tif</note>
    <subject>

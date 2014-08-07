@@ -3,19 +3,21 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000026</identifier>
+   <identifier type="omeka">omeka_000026</identifier>
    <titleInfo>
       <title>Autograph letter by George Washington, signed, to Nicholas Pike</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>correspondence</form>
     </physicalDescription>
    <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1786-06-29</dateCreated>
       <dateCreated>June 20, 1786</dateCreated>
       <place>
-        <placeTerm type="text">Mount Vernon</placeTerm>
+        <placeTerm type="text">Mount Vernon (Va.)</placeTerm>
       </place>
     </originInfo>
    <location>

@@ -3,12 +3,13 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_006135</identifier>
+   <identifier type="omeka">omeka_006135</identifier>
    <titleInfo>
       <title>Letter to George Arthur Plimpton, May 8, 1933</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>

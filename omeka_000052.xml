@@ -3,20 +3,21 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000052</identifier>
+   <identifier type="omeka">omeka_000052</identifier>
    <titleInfo>
       <title>Hornbook</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 hornbook</extent>
+      <extent>1 image</extent>
       <form>objects</form>
-      <form>hornbooks</form>
     </physicalDescription>
    <originInfo>
       <dateCreated encoding="w3cdtf" keyDate="yes">1792</dateCreated>
       <dateCreated>1729</dateCreated>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

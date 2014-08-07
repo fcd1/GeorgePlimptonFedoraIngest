@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000094</identifier>
+   <identifier type="omeka">omeka_000094</identifier>
    <titleInfo>
-      <title>Kitab al-Mutawassitat</title>
+      <title>Kitab al-Mutawassitat. 2 unknown pages</title>
     </titleInfo>
-   <titleInfo>
-      <title>Book of "The Middle Books"</title>
+   <titleInfo type="translated">
+      <title>Book of "The Middle Books". 2 unknown pages</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>

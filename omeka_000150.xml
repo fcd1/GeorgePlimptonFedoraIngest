@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000150</identifier>
+   <identifier type="omeka">omeka_000150</identifier>
    <titleInfo>
-      <title>De Rhetorica Seu de Arte Dicendi Libri Tres, Graecolat</title>
+      <title>De Rhetorica Seu de Arte Dicendi Libri Tres, Graecolat. 2 unknown pages</title>
     </titleInfo>
-   <titleInfo>
-      <title>Aristotelous Technēs rhētorikēs biblia tria</title>
+   <titleInfo type="translated">
+      <title>Aristotelous Technēs rhētorikēs biblia tria. 2 unknown pages</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated>1619</dateCreated>
       <publisher>Edward Griffin</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>

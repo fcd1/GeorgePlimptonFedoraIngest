@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000037</identifier>
+   <identifier type="omeka">omeka_000037</identifier>
    <titleInfo>
-      <title>Fifty Years as a Publisher</title>
+      <title>Fifty Years as a Publisher. Page 1</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -24,7 +26,7 @@
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/plimpton/george-arthur-plimpton/page-1</url>
       <holdingSimple>
         <copyInformation>
-            <shelfLocator>Old Box 37</shelfLocator>
+            <shelfLocator>Plimpton Papers Old Box 37</shelfLocator>
         </copyInformation>
       </holdingSimple>
     </location>
@@ -39,11 +41,6 @@
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
         <title>George A. Plimpton Papers</title>
-      </titleInfo>
-    </relatedItem>
-   <relatedItem type="original">
-      <titleInfo>
-        <title>Plimpton Papers Old Box 37</title>
       </titleInfo>
     </relatedItem>
    <note type="ownership">Gift of George Arthur Plimpton</note>

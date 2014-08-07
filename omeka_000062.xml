@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000062</identifier>
+   <identifier type="omeka">omeka_000062</identifier>
    <titleInfo>
-      <title>Ars Minor, fragment</title>
+      <title>Ars Minor. Fragment</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -20,7 +22,7 @@
       <dateCreated>ca. 1458-1460</dateCreated>
       <publisher>Albrecht Pfister</publisher>
       <place>
-        <placeTerm type="text">Bamberg</placeTerm>
+        <placeTerm type="text">Bamberg (Germany)</placeTerm>
       </place>
     </originInfo>
    <location>

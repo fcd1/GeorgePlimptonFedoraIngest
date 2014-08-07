@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000125</identifier>
+   <identifier type="omeka">omeka_000125</identifier>
    <titleInfo>
-      <title>American Preceptor; being a new Selection of Lessons for Reading and Speaking. Designed for the use of schools</title>
+      <title>American Preceptor; being a new Selection of Lessons for Reading and Speaking. Designed for the use of schools. Title page, pages 90-91</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>title page, pages 90-91</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -16,7 +18,7 @@
       <dateCreated>1797</dateCreated>
       <publisher>Printed by Manning and Loring for the Author</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
    <location>

@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000153</identifier>
-   <identifier>CLIO id: 1638086</identifier>
+   <identifier type="omeka">omeka_000153</identifier>
+   <identifier type="CLIO">CLIO_1638086</identifier>
    <titleInfo>
-      <title>De Educatione Puerorum ad Regem Bohemiae Ladislaum</title>
+      <title>De Educatione Puerorum ad Regem Bohemiae Ladislaum. 1 unnumbered page recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>circa 1470</dateCreated>
       <publisher>Ulrich Zel</publisher>
       <place>
-        <placeTerm type="text">Cologne</placeTerm>
+        <placeTerm type="text">Cologne (Germany)</placeTerm>
       </place>
     </originInfo>
    <location>

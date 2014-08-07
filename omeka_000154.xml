@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000154</identifier>
+   <identifier type="omeka">omeka_000154</identifier>
    <titleInfo>
       <title>This office will be closed…on account of the death of Mrs. George A. Plimpton</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>printed ephemera</form>
     </physicalDescription>
    <originInfo>
@@ -16,7 +18,7 @@
       <dateCreated>Dec. 1900</dateCreated>
       <publisher>Ginn and Company</publisher>
       <place>
-        <placeTerm type="text">Boston?</placeTerm>
+        <placeTerm type="text">Boston (Mass.)?</placeTerm>
       </place>
     </originInfo>
    <location>

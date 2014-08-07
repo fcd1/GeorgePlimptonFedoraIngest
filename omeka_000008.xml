@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000008</identifier>
+   <identifier type="omeka">omeka_000008</identifier>
    <titleInfo>
       <title>Letter to George A. Plimpton, April 3, 1902</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>4 pages</extent>
+      <extent>4 images</extent>
       <form>correspondence</form>
     </physicalDescription>
    <originInfo>

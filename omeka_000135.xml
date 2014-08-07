@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000135</identifier>
-   <identifier>CLIO id: 1079741</identifier>
+   <identifier type="omeka">omeka_000135</identifier>
+   <identifier type="CLIO">CLIO_1079741</identifier>
    <titleInfo>
-      <title>Myrrour of the Worlde</title>
+      <title>Myrrour of the Worlde. 2 unnumbered pages</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>2 pages</extent>
+      <extent>2 images</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>1481</dateCreated>
       <publisher>William Caxton</publisher>
       <place>
-        <placeTerm type="text">Westminster</placeTerm>
+        <placeTerm type="text">Westminster (London, England)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -46,7 +48,7 @@
    <note>original filename: PLMPTN_027_001.tif</note>
    <note>original filename: PLMPTN_027_002.tif</note>
    <name>
-      <namePart>Caxton, William,  ca. 1422-1491 or 2</namePart>
+      <namePart>Caxton, William, approximately 1422-1491 or 1492</namePart>
     </name>
    <subject>
       <topic>Earth</topic>

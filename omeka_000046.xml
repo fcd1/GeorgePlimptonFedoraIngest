@@ -3,16 +3,18 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000046</identifier>
-   <identifier>CLIO id: 1930859</identifier>
+   <identifier type="omeka">omeka_000046</identifier>
+   <identifier type="CLIO">CLIO_1930859</identifier>
    <titleInfo>
-      <title>Ginn &amp; Company's writing books</title>
+      <title>Ginn &amp; Company's writing books. Front cover</title>
     </titleInfo>
-   <titleInfo>
-      <title>Writing books</title>
+   <titleInfo type="alternative">
+      <title>Writing books. Front cover</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -20,7 +22,7 @@
       <dateCreated>1892</dateCreated>
       <publisher>Ginn and Company</publisher>
       <place>
-        <placeTerm type="text">Boston</placeTerm>
+        <placeTerm type="text">Boston (Mass.)</placeTerm>
       </place>
     </originInfo>
    <location>

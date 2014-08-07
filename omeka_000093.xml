@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000093</identifier>
+   <identifier type="omeka">omeka_000093</identifier>
    <titleInfo>
-      <title>De Proprietatibus Rerum</title>
+      <title>De Proprietatibus Rerum. Page 9 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1  page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -47,10 +49,10 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_012_001.tif</note>
    <name>
-      <namePart>Bartholomaeus,  Anglicus,  13th cent.</namePart>
+      <namePart>Bartholomaeus, Anglicus, active 13th century</namePart>
     </name>
    <name>
-      <namePart>Trevisa, John, d. 1402</namePart>
+      <namePart>Trevisa, John, -1402</namePart>
     </name>
    <subject>
       <topic>Encyclopedias and dictionaries</topic>

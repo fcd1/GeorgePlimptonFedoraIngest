@@ -3,12 +3,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000007</identifier>
+   <identifier type="omeka">omeka_000007</identifier>
    <titleInfo>
-      <title>Liber mahometi de Algebra</title>
+      <title>Liber mahometi de Algebra. Page 73 recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>1 page</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -47,7 +49,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_040_001.tif</note>
    <name>
-      <namePart>Khuwārizmī, Muḥammad ibn Mūsá, fl. 813-846</namePart>
+      <namePart>Khuwārizmī, Muḥammad ibn Mūsá, active 813-846</namePart>
     </name>
    <subject>
       <topic>Mathematics</topic>

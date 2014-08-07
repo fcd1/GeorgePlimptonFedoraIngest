@@ -3,13 +3,15 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000146</identifier>
-   <identifier>CLIO id: 1638076</identifier>
+   <identifier type="omeka">omeka_000146</identifier>
+   <identifier type="CLIO">CLIO_1638076</identifier>
    <titleInfo>
-      <title>Sententiarum Libri IV</title>
+      <title>Sententiarum Libri IV. Page II recto</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>page II</extent>
+      <extent>1 image</extent>
       <form>manuscripts</form>
     </physicalDescription>
    <originInfo>
@@ -17,7 +19,7 @@
       <dateCreated>March 10, 1477</dateCreated>
       <publisher>Vindelinus de Spira</publisher>
       <place>
-        <placeTerm type="text">Venice</placeTerm>
+        <placeTerm type="text">Venice (Italy)</placeTerm>
       </place>
     </originInfo>
    <location>
@@ -45,7 +47,7 @@
    <note type="ownership">Gift of George Arthur Plimpton</note>
    <note>original filename: PLMPTN_044_001.tif</note>
    <name>
-      <namePart>Peter Lombard, Bishop of Paris, ca. 1100-1160</namePart>
+      <namePart>Peter Lombard, Bishop of Paris, approximately 1100-1160</namePart>
     </name>
    <subject>
       <topic>Theology</topic>

@@ -3,15 +3,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">omeka_000019</identifier>
+   <identifier type="omeka">omeka_000019</identifier>
    <titleInfo>
-      <title>Orbis sensualium pictus</title>
+      <title>Orbis sensualium pictus. Pages 186-187</title>
     </titleInfo>
-   <titleInfo>
-      <title>Commenius’s Visible World</title>
+   <titleInfo type="translated">
+      <title>Commenius’s Visible World. Pages 186-187</title>
     </titleInfo>
    <physicalDescription>
       <digitalOrigin>reformatted digital</digitalOrigin>
+      <extent>pages 186-187</extent>
+      <extent>1 image</extent>
       <form>books</form>
     </physicalDescription>
    <originInfo>
@@ -19,7 +21,7 @@
       <dateCreated>1672</dateCreated>
       <publisher>Printed by T. R. for S. Mearne, Book-binder</publisher>
       <place>
-        <placeTerm type="text">London</placeTerm>
+        <placeTerm type="text">London (England)</placeTerm>
       </place>
     </originInfo>
    <location>
